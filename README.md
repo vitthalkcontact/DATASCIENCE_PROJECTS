@@ -1,2 +1,1 @@
-# Stock-Price-Prediction-using-Keras-and-Recurrent-Neural-Network
-Stock Price Prediction case study using Keras
+# Predict_customer_Will_Leave_the-Bank
