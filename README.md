@@ -1,1 +1,2 @@
-# Predict_customer_Will_Leave_the-Bank
+# Malaria-Detection
+# https://github.com/krishnaik06/Malaria-Detection.git
